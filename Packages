@@ -1,0 +1,13 @@
+Package: com.goldstriker208.gradient
+Version: 1.0
+Section: Themes
+Maintainer: Goldstriker208 <goldstriker208@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.goldstriker208.gradient.deb
+Size: 680760
+MD5sum: 5cc4a37a5e6ab0b1c37b65d9cdf19ecc
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: Gradient
+Author: Goldstriker208 <goldstriker208@gmail.com>
+Depiction: Gradient Theme
