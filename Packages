@@ -25,3 +25,17 @@ Description: Change your status bar. A12 Devices and up.
 Name: StatusBarChanger
 Author: Goldstriker208 <goldstriker208@gmail.com>
 Depiction: StatusBarChanger Tweak
+
+Package: com.goldstriker208.fontclock
+Version: 1.0
+Section: Widgets
+Maintainer: Goldstriker208 <goldstriker208@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.goldstriker208.fontclock.deb
+Size: 1586138
+MD5sum: db24911c7726d9db6457d539f47831ae
+Description: A xenhtml LS widget that customizes your lockscreen. Choose the font you like and go to /var/mobile/Library/iWidgets/FontClock/fonts to import your fonts.
+Name: FontClock
+Author: Goldstriker208 <goldstriker208@gmail.com>
+Depiction: StatusBarChanger Tweak
