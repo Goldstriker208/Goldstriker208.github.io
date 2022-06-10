@@ -26,16 +26,16 @@ Name: StatusBarChanger
 Author: Goldstriker208 <goldstriker208@gmail.com>
 Depiction: StatusBarChanger Tweak
 
-Package: com.goldstriker208.fontclock
+Package: com.goldstriker208.ios16ls
 Version: 1.0
 Section: Widgets
 Maintainer: Goldstriker208 <goldstriker208@gmail.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.goldstriker208.fontclock.deb
-Size: 1586138
-MD5sum: db24911c7726d9db6457d539f47831ae
-Description: A xenhtml LS widget that customizes your lockscreen. Choose the font you like and go to /var/mobile/Library/iWidgets/FontClock/fonts to import your fonts.
-Name: FontClock
+Filename: ./debs/com.goldstriker208.ios16ls.deb
+Size: 1841530
+MD5sum: 7d7614e541203ebd6f
+Description: Bring the iOS 16 lockscreen to your device. This is a xenhtml LS widget that customizes your lockscreen. Choose the font you like and go to /var/mobile/Library/iWidgets/FontClock/fonts to import your fonts.
+Name: iOS 16 LS
 Author: Goldstriker208 <goldstriker208@gmail.com>
-Depiction: StatusBarChanger Tweak
+Depiction: iOS 16 LS Tweak
